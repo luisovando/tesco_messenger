@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="50dp"
+            android:layout_height="21dp"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btnNotificaciones"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:text="Ver Notificaciones" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="50dp"
+            android:layout_height="21dp"
+            android:text="" />
+        <Button
+            android:id="@+id/btnMandarN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mandar " />
+
+    </TableRow>
+
+</TableLayout>

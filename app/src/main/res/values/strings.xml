@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pruebaGCM</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="crear_personas">Crear Persona</string>
+    <string name="editTextNombre">Nombre</string>
+    <string name="editTextApellido">Apellido</string>
+    <string name="editTextEdad">Edad</string>
+    <string name="agregarImagenPersona">Agregar Imagen</string>
+    <string name="botonGuardar">Guardar</string>
+    <string name="botonLimpiar">Limpiar</string>
+    <string name="opcion_editar_persona">Editar</string>
+    <string name="opcion_eliminar_persona">Eliminar</string>
+</resources>
